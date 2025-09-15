@@ -1,3 +1,9 @@
+<!-- 🌟 Custom Business Analyst Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" width="100%" alt="Saurabh Mishra - Business Analyst Banner" />
+</div>
+
+<!-- 🌊 Gradient Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saurabh%20Mishra&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20|%20Data%20Enthusiast%20📊&descAlignY=55&descAlign=50"/>
 </div>
@@ -25,7 +31,7 @@
 ✔️ Automating reports with **SQL + Excel**  
 ✔️ Using **Python** for analysis & predictive modeling  
 
-⚡ *I believe that “Numbers speak louder than opinions — if you know how to listen to them.”*  
+⚡ *“Numbers speak louder than opinions — if you know how to listen to them.”*  
 
 ---
 
