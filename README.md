@@ -1,6 +1,6 @@
 <!-- 🌟 Custom Business Analyst Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" width="100%" alt="Saurabh Mishra - Business Analyst Banner" />
+  <img src="https://raw.githubusercontent.com/SaurabhMishra/SaurabhMishra/main/banner-wide.gif" width="100%" alt="Saurabh Mishra - Business Analyst Banner" />
 </div>
 
 <!-- 🌊 Gradient Header -->
