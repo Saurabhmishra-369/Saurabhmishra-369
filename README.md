@@ -5,11 +5,12 @@
 
 <!-- 🌊 Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saurabh%20Mishra&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20|%20Data%20Enthusiast%20📊&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:6BD1FF&height=200&section=header&text=Saurabh%20Mishra&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20|%20Data%20Storyteller%20📊&descAlignY=55&descAlign=50"/>
 </div>
 
+<!-- ✨ Futuristic Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Saurabh+Mishra;Business+Analyst+Intern+@+Carevision;MBA+Business+Analytics+%7C+Amity+Online;B.Tech+ECE+%7C+SKIT+Jaipur;Turning+Data+into+Decisions+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2500&pause=1000&color=6BD1FF&center=true&vCenter=true&width=800&lines=🚀+Hi%2C+I'm+Saurabh+Mishra!;📊+Business+Analyst+%7C+MBA+Business+Analytics;🎓+B.Tech+(ECE)+SKIT+Jaipur;💼+BA+Intern+at+Carevision%2C+Kota;💡+Transforming+Data+into+Decisions;🌐+SQL+|+Python+|+Power+BI+|+Excel" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -101,5 +102,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BD1FF,100:FF6EC7&height=120&section=footer"/>
 </div>
